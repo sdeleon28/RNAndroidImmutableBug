@@ -25,7 +25,7 @@ When Metro Bundler finishes doing its thing, press `a` to fire the app in your A
 Once inside the app, take a minute to appreciate my astounding design skills, then press the button (the blue thing at the bottom).
 
 * Expected behavior: The second element in the green section is removed.
-* Actual behavior: An error is displayed because immutable inserted an array in the middle of your data structure and made things blow up ¯\\_(ツ)_/¯
+* Actual behavior: An error is displayed because immutable inserted an array in the middle of your data structure and made things blow up ¯\\\_(ツ)\_/¯
 
 ## Working version
 
