@@ -39,4 +39,4 @@ I've also tagged a version of this app that uses a different immutable version (
 
 ## Potential workarounds
 
-* https://github.com/facebook/react-native/issues/4676#issuecomment-340290485
+* https://github.com/facebook/react-native/issues/4676#issuecomment-340290485 (could cause problems with the hardware back button, though)
