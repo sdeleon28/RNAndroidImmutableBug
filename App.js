@@ -52,13 +52,13 @@ class App extends Component {
 
         // Uncomment the following block to log the problematic state
 
-        // console.log('==================================================');
-        // console.log(`
-        //     newState
-        //     --------------------------------------------------
-        //     ${JSON.stringify(newState.toJS())}
-        // `);
-        // console.log('==================================================');
+        console.log('==================================================');
+        console.log(`
+            newState
+            --------------------------------------------------
+            ${JSON.stringify(newState.toJS())}
+        `);
+        console.log('==================================================');
 
         this.setState({ appState: newState });
     };
