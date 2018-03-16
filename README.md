@@ -30,3 +30,13 @@ Once inside the app, take a minute to appreciate my astounding design skills, th
 ## Working version
 
 I've also tagged a version of this app that uses a different immutable version (`^3.8.2`) which works just fine. To test it, checkout the `stable` branch.
+
+## Related issues
+
+* [immutable-js: List.delete() sets element to empty array instead of removing it](https://github.com/facebook/immutable-js/issues/1474)
+* [React Native: Add ES6 Symbol polyfill for compatibility with iOS 8 and Android](https://github.com/facebook/react-native/pull/5294)
+* [React Native: Polyfill ES6 Symbol](https://github.com/facebook/react-native/issues/4676)
+
+## Potential workarounds
+
+* https://github.com/facebook/react-native/issues/4676#issuecomment-340290485
